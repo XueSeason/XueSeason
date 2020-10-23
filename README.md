@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+![SeasonX's github stats](https://github-readme-stats.vercel.app/api?username=xueseason&show_icons=true&theme=radical)
+
+My preferred programming language is:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xueseason&layout=compact&hide=html,css)
+
+- 🔭 I’m currently working on alibaba.
+- 🌱 I’m currently learning Sketch.
 
 <!--
 **XueSeason/xueseason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
